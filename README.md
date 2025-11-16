@@ -501,15 +501,6 @@ If you have any questions, issues, or suggestions:
 
 ---
 
-## 📈 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/backend-api-server?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/backend-api-server?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/backend-api-server)
-![GitHub license](https://img.shields.io/github/license/yourusername/backend-api-server)
-
----
-
 <div align="center">
 
 ### ⭐ If you found this project helpful, please give it a star! ⭐
